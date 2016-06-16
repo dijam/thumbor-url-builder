@@ -1,0 +1,25 @@
+{
+  "name": "thumbor-urlbuilder",
+  "version": "1.0.0",
+  "description": "Thumbor url builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dijam/thumbor-url-builder.git"
+  },
+  "keywords": [
+    "thumbor",
+    "url",
+    "builder",
+    "urlbuilder"
+  ],
+  "author": "Majid Garmaroudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dijam/thumbor-url-builder/issues"
+  },
+  "homepage": "https://github.com/dijam/thumbor-url-builder"
+}
